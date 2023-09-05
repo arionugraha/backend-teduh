@@ -1,2 +1,3 @@
-# backend-teduh
-A repository for backend assessment of Teduh
+# Project Fingolfin
+
+A random project that I'm creating.
